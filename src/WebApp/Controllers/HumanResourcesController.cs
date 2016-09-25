@@ -11,7 +11,7 @@ namespace WebApp.Controllers
     public class HumanResourcesController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult HR()
         {
             return View();
         }

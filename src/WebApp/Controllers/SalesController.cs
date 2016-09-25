@@ -11,7 +11,7 @@ namespace WebApp.Controllers
     public class SalesController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult Sales()
         {
             return View();
         }

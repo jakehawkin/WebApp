@@ -11,7 +11,7 @@ namespace WebApp.Controllers
     public class ProductionController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult Production()
         {
             return View();
         }
